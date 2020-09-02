@@ -1,17 +1,17 @@
 
 body {
     background: #E5E5E5;
-    background-image: url("../BirthdayPage/bday.jpg");
+    background-image: url("204.png");
     padding: 50px;
 }
 @media  screen and (min-width: 500px) and (max-width: 727px) { 
   body {
-      background-image:url("../BirthdayPage/bday.jpg");
+      background-image:url("204.png");
        }
   }
   @media screen and (min-width: 728px) {
   body {
-      background-image: url("../BirthdayPage/204.png");
+      background-image: url("bday.jpg");
   }
 }
   
@@ -20,7 +20,7 @@ body {
 }
   
 #card, #card-front, #card-inside {
-    height:2000px;
+    height:2600px;
     width: 2400px;
 }
 .wrap {

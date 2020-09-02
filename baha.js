@@ -1,4 +1,4 @@
-setTimeout("location.href = 'Birthday.html';",72000);
+setTimeout("location.href = 'Birthday.html';",185000);
 
 window.requestAnimFrame = ( function() {
 	return window.requestAnimationFrame ||

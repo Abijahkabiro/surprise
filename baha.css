@@ -16,13 +16,13 @@ canvas {
   }
   @media screen and (min-width: 728px) {
   body{
-      background:black;
-      color: magenta;
+      background: #000;
+      color: yellowgreen;
   }
 }
 embed{
-    margin-left:25%;
-    margin-top:8%;
+    margin-left:20%;
+    margin-top:1%;
 }
 img{
     height:400px;

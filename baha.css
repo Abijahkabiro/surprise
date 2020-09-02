@@ -1,0 +1,29 @@
+body{
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background: #000;
+    margin: 0;
+}
+canvas {
+    cursor: crosshair;
+    display: block;
+}
+@media  screen and (min-width: 500px) and (max-width: 727px) { 
+  body{
+      background:#000;
+      color: lawngreen;
+       }
+  }
+  @media screen and (min-width: 728px) {
+  body{
+      background:midnightblue;
+      color: magenta;
+  }
+}
+audio{
+    margin-left:25%;
+    margin-top:8%;
+}
+img{
+    height:400px;
+}
